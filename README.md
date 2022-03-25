@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 🌱 I’m currently learning Java, Spring, SpringBoot 
-💬 안정이 아닌 도전으로, 새롭게 전향하기 위해 새로 만든 Github (2022) 
+
+💬 안정이 아닌 도전으로, 새롭게 업무를 전향하기 위해 새로 만든 Github (2022) 
+
 📫 How to reach me: kora1492@naver.com
 
 ### 프로젝트 진행
