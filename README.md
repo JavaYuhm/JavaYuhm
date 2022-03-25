@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[!My's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JavaYuhm&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/JavaYuhm)
+🌱 I’m currently learning Java, Spring, SpringBoot 
+💬 안정이 아닌 도전으로, 새롭게 전향하기 위해 새로 만든 Github (2022) 
+📫 How to reach me: kora1492@naver.com
+
+### 프로젝트 진행
+
+
+![JavaYuhm's github stats](https://github-readme-stats.vercel.app/api?username=JavaYuhm&show_icons=true)
+
